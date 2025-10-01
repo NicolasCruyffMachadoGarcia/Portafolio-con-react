@@ -12,7 +12,7 @@ const Hero = () => {
       >
         <div className="md:w-1/2 text-center md:text-left">
           <h1 className="text-5xl font-extrabold text-white">
-            👋 Hola, soy <span className="text-blue-400">Nicolás</span>
+            👋 Hola, soy <span className="text-blue-400">Nicolas</span>
           </h1>
         <p className="mt-4 text-gray-300 text-lg">
           Estudiante de <span className="text-blue-400 font-semibold">Ingeniería de Software</span> en la Universidad Tecnológica del Perú, actualmente en el noveno ciclo.  

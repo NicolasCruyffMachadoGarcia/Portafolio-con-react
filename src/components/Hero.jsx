@@ -16,7 +16,7 @@ const Hero = () => {
           </h1>
         <p className="mt-4 text-gray-300 text-lg">
           Estudiante de <span className="text-blue-400 font-semibold">Ingeniería de Software</span> en la Universidad Tecnológica del Perú, actualmente en el noveno ciclo.  
-          Me apasiona el desarrollo web y tengo experiencia en <span className="text-blue-400">HTML, CSS, JavaScript, React, SQL y MySQL</span>.  
+          Me apasiona el desarrollo web y tengo conocimientos en <span className="text-blue-400">HTML, CSS, JavaScript, React, SQL y MySQL</span>.  
           Me gusta crear páginas web modernas y funcionales.
         </p>
 

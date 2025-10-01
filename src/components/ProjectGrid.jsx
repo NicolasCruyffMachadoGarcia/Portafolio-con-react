@@ -23,6 +23,11 @@ function ProjectGrid() {
       description: "Calculadora web que te permite calcular en distintos tipos de grados.",
       link: "https://calculadoradetemperaturas.netlify.app",
     },
+            {
+      title: "Portafolio de proyectos",
+      description: "Portafolio con mas proyectos echo con react.",
+      link: "https://portafoliowebreact.netlify.app",
+    },
   ];
   
 

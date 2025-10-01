@@ -16,7 +16,7 @@ function ProjectGrid() {
         {
       title: "ModaPelis",
       description: "Proyecto web que te permite ver las reseñas, puntuaciones y trailers de diversas películas.",
-      link: "https://github.com/tuusuario/ModaPelis",
+      link: "https://modapelis.netlify.app",
     },
         {
       title: "Calculadora de Temperaturas",

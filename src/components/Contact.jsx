@@ -4,7 +4,7 @@ const Contact = () => {
   const [status, setStatus] = useState("");
 
   const handleSubmit = async (e) => {
-    e.preventDefault(); //  evita que se abra la nueva página
+    e.preventDefault(); 
 
     setStatus("Enviando...");
 

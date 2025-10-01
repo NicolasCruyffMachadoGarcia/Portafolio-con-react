@@ -21,7 +21,7 @@ const Hero = () => {
         </p>
 
           <a
-            href="#contacto" // 👈 esto lo lleva directo al formulario
+            href="#contacto" //  lleva directo al formulario
             className="inline-block mt-6 bg-blue-500 hover:bg-blue-600 text-white font-semibold px-6 py-3 rounded-xl transition"
           >
             Contáctame

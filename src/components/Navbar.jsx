@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full bg-gray-900/90 backdrop-blur z-50">
       <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
-        <h1 className="text-2xl font-bold text-blue-400">Nicolás</h1>
+        <h1 className="text-2xl font-bold text-blue-400">Portafolio de Nicolas Cruyff Machado Garcia</h1>
 
         <ul className="hidden md:flex gap-6 text-gray-200 font-medium">
           <li><a href="#hero" className="hover:text-blue-300">Inicio</a></li>

@@ -4,7 +4,7 @@ const Contact = () => {
   const [status, setStatus] = useState("");
 
   const handleSubmit = async (e) => {
-    e.preventDefault(); // 🚨 Esto evita que se abra la nueva página
+    e.preventDefault(); //  evita que se abra la nueva página
 
     setStatus("Enviando...");
 
@@ -32,7 +32,7 @@ const Contact = () => {
     <section id="contacto" className="py-20 max-w-4xl mx-auto text-center">
       <h2 className="text-4xl font-bold text-blue-400 mb-8">📩 Contáctame</h2>
       <form
-        onSubmit={handleSubmit} // 👈 Importante, no uses action aquí
+        onSubmit={handleSubmit} 
         className="bg-gray-800 p-8 rounded-2xl shadow-lg space-y-6"
       >
         <input

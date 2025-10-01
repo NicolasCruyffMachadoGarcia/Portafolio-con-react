@@ -16,7 +16,7 @@ export default function App() {
         </h1>
         <ProjectGrid />
 
-        {/* 👇 Aquí insertamos el formulario de contacto */}
+        {}
         <Contact />
       </main>
 

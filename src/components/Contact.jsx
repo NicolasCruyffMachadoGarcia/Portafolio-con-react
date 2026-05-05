@@ -42,6 +42,15 @@ const Contact = () => {
           className="w-full p-3 rounded-lg border border-gray-600 bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
           required
         />
+
+        <input
+          type="text"
+          name="subject"  
+          placeholder="Asunto a especificar"
+          className="w-full p-3 rounded-lg border border-gray-600 bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+          required
+        />
+
         <input
           type="email"
           name="email"
